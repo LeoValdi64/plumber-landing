@@ -1,0 +1,32 @@
+Create a professional plumbing company landing page called "ProFlow Plumbing" in app/page.tsx.
+
+REQUIREMENTS:
+- Replace the existing page.tsx content completely
+- Fully responsive, mobile-first
+- Modern, trustworthy design (blue/white color scheme)
+- All in a single file
+
+SECTIONS:
+1. Sticky Header with logo "ProFlow Plumbing", nav links, phone number prominently displayed "(555) 123-FLOW"
+2. Hero: "24/7 Emergency Plumbing Services" with background gradient, strong CTAs "Call Now" and "Get Free Quote"
+3. Services Grid (6 cards): Drain Cleaning, Water Heater Repair, Leak Detection, Pipe Repair, Bathroom Remodeling, Sewer Line Services - each with icon (use emoji or SVG)
+4. Why Choose Us (4 items): Licensed & Insured, Same-Day Service, Upfront Pricing, Satisfaction Guaranteed
+5. Service Areas section listing: Seattle, Bellevue, Tacoma, Kirkland, Redmond, Everett
+6. Testimonials carousel/grid: 3 customer reviews with 5-star ratings
+7. Emergency Banner: red/orange "Plumbing Emergency? Available 24/7 - Call Now!"
+8. Contact Form: Name, Phone, Email, Service Type dropdown, Message textarea, Submit button
+9. Footer: Contact info, business hours (Mon-Fri 7am-8pm, Sat 8am-5pm, 24/7 Emergency), social icons, license number
+
+DESIGN:
+- Primary blue: #1e40af, accent: #3b82f6
+- Trust badges throughout
+- Phone number clickable (tel: link)
+- Smooth scroll to sections
+- Professional typography
+
+Also update app/layout.tsx with proper metadata:
+- title: "ProFlow Plumbing | 24/7 Emergency Plumbing Services Seattle"
+- description for SEO
+- Open Graph tags
+
+Make it production-ready and visually impressive.
