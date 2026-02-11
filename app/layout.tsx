@@ -60,7 +60,8 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "Plumber",
+              "@type": "LocalBusiness",
+              "additionalType": "http://www.productontology.org/id/Plumber",
               name: "ProFlow Plumbing",
               description:
                 "Licensed Seattle plumber available 24/7. Drain cleaning, water heater repair, leak detection and more.",
